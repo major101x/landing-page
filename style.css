@@ -11,6 +11,8 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+/* HEADER SECTION */
+
 .header {
   padding: 16px 100px;
   display: flex;
@@ -50,6 +52,8 @@ a {
   color: white;
   cursor: pointer;
 }
+
+/* HERO SECTION */
 
 .hero-section {
   display: flex;
@@ -102,6 +106,8 @@ a {
   color: white;
 }
 
+/* INFO AND PRODUCTS SECTION */
+
 .info {
   font-size: 36px;
   font-weight: 900;
@@ -128,6 +134,8 @@ a {
   margin: 10px 0;
 }
 
+/* QUOTE SECTION */
+
 .quote-container {
   display: flex;
   align-items: center;
@@ -149,6 +157,8 @@ a {
   font-weight: 900;
   padding-left: 400px;
 }
+
+/* SIGNUP SECTION */
 
 .signup-container {
   display: flex;
@@ -179,6 +189,8 @@ a {
   font-weight: 900;
   font-size: 16px;
 }
+
+/* FOOTER */
 
 .footer {
   display: flex;
